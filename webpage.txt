@@ -1,0 +1,172 @@
+Cllg.html: 
+<html>
+<head>
+<title>Home</title>
+</head>
+<frameset rows="25%,*">
+<frame src="frame1.html">
+<frameset cols="25%,*">
+<frame src="frame2.html" name="f2">
+<frame src="frame3.html" name="f3">
+</frameset>
+</html>
+Frame1.html 
+<html>
+<head><title>frame1</title>
+</head>
+<body bgcolor="#e9e4dc">
+<h1 style="color:black;font-size:25pt;text-align: center;">BNM Intitute of 
+Technology</h1>
+<h3 style="word-wrap:break-word">BNMIT has been accredited with ‘A’ Grade by 
+NAAC. All UG branches – CSE, ECE, EEE, ISE & Mech.E accredited by NBA for the 
+academic years 2018-19 to 2024-25 and valid up-to 30.6.2025</h3>
+</h1>
+</body>
+</html>
+Frame2.html 
+<html>
+<head><title>frame2</title>
+ <style type="text/css">
+h1
+{ 
+font-size:25pt; 
+} 
+</style>
+</head>
+<body bgcolor="skyblue">
+<h1>LINKS</h1>
+<a href="intro.html" target=f3>Introduction</a><br>
+<a href="dept.html" target=f3>Departments</a><br>
+<a href="ad.html" target=f3>Address</a><br>
+</body>
+</html>
+Frame3.html 
+<html>
+<head><title>1st page</title>
+<link rel="stylesheet" type="text/css" href="C:\Documents and
+Settings\Administrator\Desktop\ab\css1.css"/>
+</head>
+<body bgcolor="#FFE4B5">
+<h2> <center>About BNMIT</center></h2>
+<h3><center>
+ BNMEI – B.N.M Educational Institutions was established by the trust 
+Bhageerathi Bai Narayana Rao Maanay Charities in the year 1972. The Managing 
+Trustee Shri. N. Raghunath Rao Maanay along with Prof. Sunanda P Jadhav the 
+founder Secretary and Principal founded the institution with a focused vision 
+to impart value based quality education irrespective of social, financial or 
+religious status. Prof. Sunanda P. Jadhav strived to provide education at 
+affordable cost especially to the girl child and her unstinted efforts yielded 
+highly commendable results.From a humble beginning the BNM group of 
+Educational Institutions is now a leader in the field of education, providing 
+the most modern education while maintaining the rich cultural heritage of the 
+great India. 
+ 
+ Education starts at BNM offering Montessori system to Tiny Tots at the 
+tender age of two and half years in the BNM Montessori House.BNM is an amalgam 
+of Educational Institutions consisting of BNM Montessori House, BNM Primary 
+School (State Syllabus), BNM High School (State Syllabus), BNM Public School 
+(Central Syllabus), BNM PU College, BNM Degree College and BNM Institute of 
+Technology.</center></h3>
+</body>
+</html>
+Ad.html
+<html>
+
+<head><title>ADDRESS</title>
+
+</head>
+
+<body>
+
+<p>
+
+<font style="text-align: center;"><h3 style="text-align: center;">
+
+Name:BNM Institute of Technology<br>
+
+Location:Bengaluru<br>
+
+Contact No:9999999999<br>
+
+Website: www.google.com<br></h3>
+
+</font>
+
+</p>
+
+</body>
+
+</html>
+
+Intro.html 
+
+<html>
+
+<head><title>intro</title>
+
+</head>
+
+<body >
+
+<font color=BLACK>
+
+<p>
+
+<H2>Welcome to BNM Institute of Technology - 
+
+Affiliated to VTU</H2> <br>
+
+<br>
+
+<H3>BNMEI – B.N.M Educational Institutions was established by the trust 
+
+Bhageerathi Bai Narayana Rao Maanay Charities in the year 1972. The Managing 
+
+Trustee Shri. N. Raghunath Rao Maanay along with Prof. Sunanda P Jadhav the 
+
+founder Secretary and Principal founded the institution with a focused vision 
+
+to impart value based quality education irrespective of social, financial or 
+
+religious status. Prof. Sunanda P. Jadhav strived to provide education at 
+
+affordable cost especially to the girl child and her unstinted efforts yielded 
+
+highly commendable results. From a humble beginning the BNM group of 
+
+Educational Institutions is now a leader in the field of education, providing 
+
+the most modern education while maintaining the rich cultural heritage of the 
+
+great India.</H3>
+
+</p>
+
+</font>
+
+</body>
+
+</html>
+
+Dept.html 
+
+<html>
+
+<head><title>Departments</title>
+
+</head>
+
+<p>&nbsp;</p>
+  <header><h1>Departments are:</h1></header>
+<body style="text-align: center;">
+ <h3 style="text-align: center";>
+<ol>
+ <li>CSE</li>
+ <li>ISE</li>
+ <li>ECE</li>
+ <li>EEE</li>
+ <li>Mechanical</li>
+</ol>
+</h3>
+</body>
+</html>
